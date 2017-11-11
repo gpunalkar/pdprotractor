@@ -1,0 +1,22 @@
+{
+  "name": "pdprotractor",
+  "version": "1.0.0",
+  "description": "page objet model in protractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "page object"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpunalkar/pdprotractor.git"
+  },
+  "keywords": [
+    "objet"
+  ],
+  "author": "Ganesh Punalkar <ganesh.punalkar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpunalkar/pdprotractor/issues"
+  },
+  "homepage": "https://github.com/gpunalkar/pdprotractor#readme"
+}

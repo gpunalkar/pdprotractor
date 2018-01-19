@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/gpunalkar/pdprotractor/issues"
   },
-  "homepage": "https://github.com/gpunalkar/pdprotractor#readme"
+  "homepage": "https://github.com/gpunalkar/pdprotractor#readme",
+  "dependencies": {
+    "simple-node-logger": "^0.93.33"
+  }
 }

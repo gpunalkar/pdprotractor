@@ -4,7 +4,9 @@
   "description": "page objet model in protractor",
   "main": "index.js",
   "scripts": {
-    "test": "page object"
+    "test": "page object",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,8 @@
   },
   "homepage": "https://github.com/gpunalkar/pdprotractor#readme",
   "dependencies": {
-    "simple-node-logger": "^0.93.33"
-  }
+    "simple-node-logger": "^0.93.33",
+    "snyk": "^1.316.1"
+  },
+  "snyk": true
 }

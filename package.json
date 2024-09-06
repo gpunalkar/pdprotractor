@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/gpunalkar/pdprotractor#readme",
   "dependencies": {
-    "simple-node-logger": "^0.93.33"
+    "simple-node-logger": "^18.12.23"
   }
 }
